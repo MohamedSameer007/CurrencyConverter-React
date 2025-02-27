@@ -39,7 +39,7 @@ h1{
 .box{
     width: 100%;
     height: 200px;
-    background-image: url(currency1.avif);
+    background-image: url(.currency1.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
