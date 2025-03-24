@@ -13,7 +13,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #2c3a47;
+    background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.9)),url(https://img.freepik.com/premium-photo/bitcoin-chart-cryptocurrency-is-currency-future-market-price-is-bitcoin_217333-2064.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .currency-converter{
